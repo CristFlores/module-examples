@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/CristFlores/module-examples/slices"
 	"rsc.io/quote/v3"
 )
 
